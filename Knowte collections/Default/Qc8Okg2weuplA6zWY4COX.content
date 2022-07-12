@@ -1,0 +1,1 @@
+{"ops":[{"insert":"docker rename my_container my_new_container"},{"attributes":{"code-block":true},"insert":"\n"}]}

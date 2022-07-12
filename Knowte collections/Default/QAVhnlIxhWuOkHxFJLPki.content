@@ -1,0 +1,1 @@
+{"ops":[{"insert":"docker run -v /home/jrmpacheco/Downloads/odoo-dockerfile-master/11/addons:/opt/odoo/addons /home/jrmpacheco/Downloads/odoo-dockerfile-master/11/extra_localization:/opt/odoo/extra_localization -p 8069:8069 -t 881dbf9e7e36"},{"attributes":{"code-block":true},"insert":"\n"}]}

@@ -1,0 +1,1 @@
+{"ops":[{"insert":"Instalar create react app\nnpm install -g react-scripts@latest"},{"attributes":{"code-block":true},"insert":"\n"},{"insert":"npx create-react-app my-app --template typescript"},{"attributes":{"code-block":true},"insert":"\n"},{"insert":"  "},{"attributes":{"code-block":true},"insert":"\n"}]}

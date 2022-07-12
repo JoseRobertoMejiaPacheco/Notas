@@ -1,0 +1,1 @@
+{"ops":[{"insert":"ls -l | wc -l\n\ntar -zcvf /FilestoreOdoo11/Migrado.tar.gz /opt/odoo/odoo/ARCHIVOS_FILESTORE/filestore/\n"}]}

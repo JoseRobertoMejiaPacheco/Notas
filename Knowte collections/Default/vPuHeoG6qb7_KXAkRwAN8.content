@@ -1,0 +1,1 @@
+{"ops":[{"insert":"set enable-bracketed-paste off"},{"attributes":{"code-block":true},"insert":"\n"},{"insert":"bind 'set enable-bracketed-paste off'"},{"attributes":{"code-block":true},"insert":"\n"},{"insert":"echo \"set enable-bracketed-paste off\" >> ~/.inputrc"},{"attributes":{"code-block":true},"insert":"\n"}]}

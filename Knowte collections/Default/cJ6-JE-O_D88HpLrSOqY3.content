@@ -1,0 +1,1 @@
+{"ops":[{"insert":"sshfs -o password_stdin Odoo@192.168.1.19:/Docs_Odoo /home/odoo-dev/Music/mounterdf <<< 'Gacl751001E85+'"},{"attributes":{"code-block":true},"insert":"\n"}]}

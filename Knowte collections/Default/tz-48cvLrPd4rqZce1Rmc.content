@@ -1,0 +1,1 @@
+{"ops":[{"insert":"docker run -it --entrypoint \"/bin/bash\" debian:stretch-slim"},{"attributes":{"code-block":true},"insert":"\n"}]}

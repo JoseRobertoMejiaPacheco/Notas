@@ -1,0 +1,1 @@
+{"ops":[{"insert":"sudo docker images  --listar imagenes de docker\n\nhttps://hub.docker.com/r/mysql/mysql-server\n"}]}

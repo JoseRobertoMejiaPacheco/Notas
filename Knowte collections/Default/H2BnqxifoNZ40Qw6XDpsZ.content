@@ -1,0 +1,1 @@
+{"ops":[{"insert":"Api Multi es cuando se abre la vista de lista se calcula todo antes de abrir cada registro de la lista, para cuando se abre el elemento ya está calculado.\n\nApi one es cuando se abre de la vista de lista un registro, es cuando se abre un solo registro se calcula solo el registro abierto\n"}]}

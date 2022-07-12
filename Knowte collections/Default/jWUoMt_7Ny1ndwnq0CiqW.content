@@ -1,0 +1,1 @@
+{"ops":[{"insert":"sudo snap install dotnet-sdk --channel=6.0/beta --classic"},{"attributes":{"code-block":true},"insert":"\n"}]}

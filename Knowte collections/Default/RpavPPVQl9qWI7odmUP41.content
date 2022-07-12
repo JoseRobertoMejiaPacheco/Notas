@@ -1,0 +1,1 @@
+{"ops":[{"insert":"COntador \nFecha de creacion de la factura, cada dia que pasa cuente 1\n\nEditable GR char\ndias en obtencion gr read only\nsi gr es null no sigue contando\n"}]}

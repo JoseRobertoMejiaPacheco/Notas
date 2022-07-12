@@ -1,0 +1,1 @@
+{"ops":[{"insert":"Move the corrupted one to the safe place\n\nsudo mv /etc/apt/sources.list ~/\nand recreate it\n\nsudo touch /etc/apt/sources.list\nOpen Software & Updates\n\nsoftware-properties-gtk\nThis will open software-properties-gtk with no repository selected.\n"}]}

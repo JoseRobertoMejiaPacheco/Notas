@@ -1,0 +1,1 @@
+{"ops":[{"insert":"docker logs --follow --tail 100 PRO-GEG-Impulso-APIGateway"},{"attributes":{"code-block":true},"insert":"\n"},{"insert":"docker logs --follow --tail 100 MongoDB-Node02"},{"attributes":{"code-block":true},"insert":"\n\n"},{"insert":"  docker logs --follow --tail 100 docker_odoo11_4g_ingenieria_cont_1"},{"attributes":{"code-block":true},"insert":"\n\n"}]}

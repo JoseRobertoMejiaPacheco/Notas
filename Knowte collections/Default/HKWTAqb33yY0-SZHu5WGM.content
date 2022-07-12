@@ -1,0 +1,1 @@
+{"ops":[{"insert":"sudo usermod -aG docker $USER"},{"attributes":{"code-block":true},"insert":"\n"}]}

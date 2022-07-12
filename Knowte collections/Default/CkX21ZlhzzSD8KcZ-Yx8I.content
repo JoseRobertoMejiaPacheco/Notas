@@ -1,0 +1,1 @@
+{"ops":[{"insert":"/opt/odoo/odoo/odoo11-venv/bin/python3 /opt/odoo/odoo/odoo-bin shell -d 4G_INGENIERIA_HP -c /etc/odoo/odoo.conf\n"}]}

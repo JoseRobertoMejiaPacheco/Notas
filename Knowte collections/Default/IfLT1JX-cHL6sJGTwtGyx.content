@@ -1,0 +1,1 @@
+{"ops":[{"insert":"Cuando cambia el estatus de una SO se debe actualizar en el escenario de ventas.\nCuando cambia el precio de la hoja de proyecto por pieza se tiene que actualizar en el escenario de ventas.\nAl cambiar el precio por pieza se debe cambiar  en el producto creado en la hoja de proyecto\ny en el escenario de ventas.\n"}]}
